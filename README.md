@@ -118,4 +118,4 @@ pyttsx3
 
 ## Author
 
-**Vrushbh** — [github.com/vrushh7](https://github.com/vrushh7)
+**Vrushabh Upadhye** — [github.com/vrushh7](https://github.com/vrushh7)
