@@ -64,7 +64,6 @@ st.set_page_config(page_title="LearnEaseAI", layout="wide", page_icon="🎓")
 
 # ─── HEADER ───
 st.title("🎓 LearnEaseAI")
-st.caption("Transform any lecture into comprehensive study materials — in any language.")
 st.divider()
 
 # ─── Keep all original defaults ───
@@ -563,4 +562,4 @@ if media_file is not None:
 
 # ─── FOOTER ───
 st.divider()
-st.caption("🎓 LearnEaseAI · Open Source · Free Forever")
+st.caption("🎓 LearnEaseAI ")
